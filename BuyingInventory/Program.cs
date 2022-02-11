@@ -29,5 +29,5 @@ var price = purchase switch
     _ => 0
 };
 
-if (name.ToLower() == "box") price /= 2;
+if (!String.IsNullOrWhiteSpace(name) && name.ToLower() == "box") price /= 2;
 Console.WriteLine($"That will be {price} gold. Have a nice day {name}!");
