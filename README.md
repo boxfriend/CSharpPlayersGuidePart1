@@ -2,6 +2,8 @@
 ###### These are my solutions to the challenges in the first section of the book titled "Part 1: The Basics"
 Info about the book including where to purchase can be found [here](https://csharpplayersguide.com/)
 
+###### [Solutions to Part 2: Object-Oriented Programming](https://github.com/boxfriend/CSharpPlayersGuidePart2)
+
 I am not new to C# (at least not relative to the audience the book was intended for). But I figured I would go through it to make sure there are no gaps in my knowledge and to learn about some of the changes introduced in C# 10. Below you will find links to each challenge with a short description of the challenge. There are a couple challenges that have been grouped together because the subsequent challenges modify code from previous ones
 
 [Hello World!](CSharpPlayersGuide/Program.cs) - Self explanatory, just make the console print "Hello World!".
